@@ -1,0 +1,11 @@
+► Top 10 Github repos: 
+1. FreeCodeCamp Repo: https://github.com/freeCodeCamp/freeCodeCamp
+2. Public APIs: https://github.com/public-apis/public-apis
+3. System Design Primer: https://github.com/donnemartin/system-design-primer
+4. Hiring Without Whiteboard: https://github.com/poteto/hiring-without-whiteboards
+5. Tech Interview Handbook: https://github.com/yangshun/tech-interview-handbook
+6. The Algorithms: https://github.com/TheAlgorithms
+7. Free Programming Books: https://github.com/EbookFoundation/free-programming-books
+8. Every Programmer Should Know: https://github.com/mtdvio/every-programmer-should-know
+9. Developer Roadmap: https://github.com/kamranahmedse/developer-roadmap
+10. Build Your Own X: https://github.com/codecrafters-io/build-your-own-x
